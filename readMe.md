@@ -1,6 +1,6 @@
 ## Programming algorithms
 
-This section is dedicated to return algorithms, the most examples will be provide in JavaScript and TypeScript languages.
+This section is dedicated to return algorithms, the most examples will be provide in JavaScript and Python languages.
 Please note me any qestions for other languages recommendation.
 
 

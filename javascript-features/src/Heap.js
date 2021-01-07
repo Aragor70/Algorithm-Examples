@@ -1,7 +1,6 @@
 
 // get Heap's algorithms
 
-
 // function getPermutations(1, 2, 3)
 // function getPermutations(A, 1, C, 2, 3)
 // generate result "321,312,231,213,132,123"
