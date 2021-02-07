@@ -14,4 +14,30 @@ I encourage you to send your feedback.
 
 
 ### JavaScript:
-Heap algorithm
+- Heap algorithm
+
+
+### Python:
+- search
+    - Binary search
+
+- sort
+    - Bubble sort
+
+- Statistics: 
+    - Basic probability ( six-sided dice )
+    - Binomial distribution
+    - Probability of cards are of the same suit
+    - Probability of a compound event
+    - Conditional probability
+    - Drawning marbles
+    - Geometric distribution (probability of a defect)
+    - Quartiles
+    - Interquartile range
+    
+    - Mean, median and mode
+    - Weighted mean
+    - More dice (2 x six-sided dice)
+    - Normal distributions
+    - Poisson distributions
+    - Standard deviation
