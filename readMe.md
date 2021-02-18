@@ -24,6 +24,9 @@ I encourage you to send your feedback.
 - sort
     - Bubble sort
 
+- data structures
+    - 2D array ( hourglasses )
+
 - Statistics: 
     - Basic probability ( six-sided dice )
     - Binomial distribution
