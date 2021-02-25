@@ -27,6 +27,7 @@ I encourage you to send your feedback.
 - data structures
     - 2D array ( hourglasses )
     - date format
+    - palindrome ( string, int )
     
 
 - Statistics: 
