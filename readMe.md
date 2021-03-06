@@ -31,6 +31,7 @@ I encourage you to send your feedback.
 
 - Artificial Intelligence
     - bot saves princess I
+    - bot saves princess II
 
 - Statistics: 
     - Basic probability ( six-sided dice )

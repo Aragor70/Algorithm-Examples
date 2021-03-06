@@ -1,5 +1,4 @@
 
-
 # Part of Artificial Intelligence algorithms at https://www.hackerrank.com/
 
 # Complete the function displayPathtoPrincess which takes in two parameters - the integer N and the character array grid. 
@@ -28,7 +27,7 @@ def displayPathtoPrincess(n,grid):
     for i in range(n):
         for j in range(n):
             if board[i][j] == "p":
-                prince = [i, j]
+                princess = [i, j]
                 
     if princess == [0, 0]:
         for i in range(n // 2):
