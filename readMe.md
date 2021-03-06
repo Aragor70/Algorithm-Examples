@@ -28,7 +28,9 @@ I encourage you to send your feedback.
     - 2D array ( hourglasses )
     - date format
     - palindrome ( string, int )
-    
+
+- Artificial Intelligence
+    - bot saves princess I
 
 - Statistics: 
     - Basic probability ( six-sided dice )

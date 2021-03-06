@@ -36,3 +36,6 @@ if __name__ == '__main__':
 
     print(palindrome_STR('bambino'))
     print(palindrome_NUM(1234567890))
+
+
+# python [filename].py
